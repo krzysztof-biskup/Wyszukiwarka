@@ -33,7 +33,7 @@ render: function() {
             />
   },
 	
-	render: function () {
+	function () {
 		var styles = {
 			fontSize: '1.5em',
 				width: '90%',
